@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+target/
+/.idea/
+/src/test/
+log.txt
+*.log
+/src/main/resources/rebel.xml
+/velocity.log
+.local/
